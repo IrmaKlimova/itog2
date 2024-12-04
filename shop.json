@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Выходные на озере Лох-Корриб",
+        "vendor_code": "11",
+        "description": "Насладитесь тишиной и природой у самого большого озера Ирландии.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/Lough-Corrib.jpg?raw=true",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "title": "Прогулка по утесам Мохер",
+        "vendor_code": "12",
+        "description": "Погрузитесь в захватывающие виды и магию Атлантики.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/5292_r800x0.jpg?raw=true",
+        "price": 180
+    },
+    {
+        "id": 3,
+        "title": "Исторический центр Дублина",
+        "vendor_code": "13",
+        "description": "Откройте для себя атмосферу древнего города.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/TAL-header-dublin-ireland-DUBLIN0324-78d8076c12ec4049ac0250c34fa39edc.jpg?raw=true",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "title": "Загородный отдых",
+        "vendor_code": "21",
+        "description": "Отдохните вдали от городской суеты и насладитесь природой.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/x9xxi7qrraua1.jpeg?raw=true",
+        "price": 300
+    },
+    {
+        "id": 5,
+        "title": "Круиз по Лох-Корриб",
+        "vendor_code": "22",
+        "description": "Водная прогулка с потрясающими пейзажами.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/Lough-Corrib.jpg?raw=true",
+        "price": 220
+    },
+    {
+        "id": 6,
+        "title": "Закат на утесах Мохер",
+        "vendor_code": "23",
+        "description": "Наблюдайте закат в одном из самых красивых мест Ирландии.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/5292_r800x0.jpg?raw=true",
+        "price": 190
+    },
+    {
+        "id": 7,
+        "title": "Культура и традиции Дублина",
+        "vendor_code": "31",
+        "description": "Узнайте больше о культуре и традициях ирландской столицы.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/TAL-header-dublin-ireland-DUBLIN0324-78d8076c12ec4049ac0250c34fa39edc.jpg?raw=true",
+        "price": 210
+    },
+    {
+        "id": 8,
+        "title": "Походы по долинам",
+        "vendor_code": "32",
+        "description": "Исследуйте долины и горные тропы Ирландии.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/x9xxi7qrraua1.jpeg?raw=true",
+        "price": 280
+    },
+    {
+        "id": 9,
+        "title": "Ночные туры по Дублину",
+        "vendor_code": "33",
+        "description": "Исследуйте Дублин ночью с гидом.",
+        "image": "https://github.com/IrmaKlimova/-1/blob/main/TAL-header-dublin-ireland-DUBLIN0324-78d8076c12ec4049ac0250c34fa39edc.jpg?raw=true",
+        "price": 230
+    }
+]
